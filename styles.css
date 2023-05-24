@@ -1,0 +1,86 @@
+.search_index {
+    text-align: center;
+}
+
+.search {
+    text-align: right;
+}
+
+.under_search_index {
+    text-align: center;
+}
+
+.main_logo {
+    text-align: center;
+}
+
+.right_images_advanced{
+    text-align: right;
+    font-weight: lighter;
+    color: blue;
+}
+
+.image_search_logo {
+    text-align: center;
+}
+
+.R-search-image {
+    text-align: right;
+}
+
+.advanced_logo {
+    height: 24px;
+    width: 74px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.appbar {
+    color: rgb(207, 32, 32);
+}
+
+/*  for texts */
+.jfk-labels-1{
+    min-height: 100px;
+    width: 100px;
+    margin-inline-end: 100px;
+    
+}
+
+.jfk-labels-2{
+    min-height: 100px;
+    width: 100px;
+    margin-inline-end: 35px;
+    
+}
+
+.jfk-labels-3{
+    min-height: 100px;
+    width: 100px;
+    margin-inline-end: 76px;
+    
+}
+
+.jfk-labels-4{
+    min-height: 100px;
+    width: 100px;
+    margin-inline-end: 68px;
+    
+}
+
+.jfk-textinput{
+    height: 25px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+    text-align: left;
+}
+
+.search-button {
+    margin-left: 385px;
+    background-color: rgb(41, 41, 238);
+    color: white;
+}
